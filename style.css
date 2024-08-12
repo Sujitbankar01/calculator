@@ -1,0 +1,173 @@
+.header{
+    color: black;
+    background-color:#ff3333;
+    font-size: 25px;
+    margin: 0 35px;
+    margin-top: 17px;
+    text-decoration: none;
+    position: relative;
+    left: 150px;
+}
+
+.nav-img{
+    height: 60px;
+    background-color: #ff8e3c;
+    position: relative;
+    right: 300px;
+    margin-top: 5px;
+}
+
+.k-name2{
+    font-size: 25px;
+    background-color:#ff8e3c;
+    font-family:cursive;
+    position: absolute;
+    right: 1030px;
+    margin-top: 18px;
+}
+
+
+.heading{
+    display: flex;
+    justify-content: center;
+    background-color:  #ff3333;
+    font-family: cursive;
+    border-bottom: 2px solid #e60000;
+    height: 70px;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    z-index: 10;
+}
+.img-h{
+    width: 76%;
+    display: block;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.cakeshop{
+    text-align: center;
+    color:  #33272a;
+}
+.parent-card{
+    
+        display: flex;
+        justify-content: center;
+       margin-top: 20px;
+       background-color:#fff0e6;
+    
+    
+    
+}
+.product{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 40px;
+}
+
+
+.about{
+    margin-top: 40px;
+    display: flex;
+    margin: 10px;
+}
+
+.about .img {
+   padding-left: 80px;
+    flex: 70px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.about .img img {
+    width: 600px;
+   border: solid black 2px;
+   border-radius: 0 10 0 10;
+   
+}
+
+.about
+ .content {
+    flex: 500px;
+   padding-left: 50px;
+   margin-top: 40px;
+   margin-bottom: 50px
+   
+}
+.colur{
+    color: #594a4e;
+}
+.colurs{
+   color: #33272a;
+}
+.baground{
+    background-color:#faeee7;
+}
+.text-img{
+    height: 300px;
+    width: 250px;
+    background-color: #ff6666;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.t1{
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    margin: 10px;
+
+}
+.box{
+    height: 350px;
+    width: 1300px;
+display: flex;
+flex-direction: column;
+padding: 7px;
+border-radius: 5px;
+background-color:#ff3333;
+text-align: center;
+}
+.text-box{
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+    border: solid 1px black;
+    border-radius:0 30px;
+    margin-left: 70px;
+    font-size: 20px;
+
+}
+.h1{
+    position: absolute;
+    top: 310%;
+    left: 37%;
+    text-align:center ;
+}
+.text-box1{
+    height: 40px;
+    width: 180px;
+    
+    margin: 10px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
